@@ -97,7 +97,7 @@ ComposeDB on ceramic is a decentralized composable graph database that provides 
 
 ComposeDB enables developers to build decentralized applications on Ceramic network, thereby enjoying the ability to retrieve, store, update, modify, and reuse composable Web3 data models leveraging GraphQL.
 
-> For an overview of ComposeDB check out [<u>_this documentation_</U>](https://composedb.js.org/docs/0.3.x/introduction).
+> For an overview of ComposeDB check out [<u>_this documentation_</u>](https://composedb.js.org/docs/0.3.x/introduction).
 
 ## **Why Build with ComposeDB?**
 
@@ -128,6 +128,8 @@ As a developer, an understanding of the differences between Ceramic and ComposeD
 9. Developer Experience
 
 ![The Differences Between Ceramic and ComposeDB](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/TheDifferences.jpg?raw=true)
+
+> Source: [<u>ComposeDB: Using Ceramic as a Graph Database</u>](https://blog.ceramic.network/composedb-using-ceramic-as-a-graph-database)
 
 ### 1. **Database Type**
 
