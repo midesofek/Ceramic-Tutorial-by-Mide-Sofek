@@ -17,7 +17,7 @@ In this tutorial, you will learn
 
 # Introduction to Ceramic
 
-![Ceramic Logo](/home/mide/Ceramic-Tutorial-by-Mide-Sofek/public/Ceramic.png)
+![Ceramic Logo](../Ceramic-Tutorial-by-Mide-Sofek/public/Ceramic.png)
 
 Ceramic is a decentralized data network that enables application developers easily build apps with composable Web3 data which can be reused across applications - making them interoperable.
 
@@ -91,7 +91,7 @@ Self.ID provides full access to the Ceramic data network which simplifies the pr
 
 # Introduction to ComposeDB
 
-![ComposeDB](/home/mide/Ceramic-Tutorial-by-Mide-Sofek/public/ComposeDB.png)
+![ComposeDB](../Ceramic-Tutorial-by-Mide-Sofek/public/ComposeDB.png)
 
 ComposeDB on ceramic is a decentralized composable graph database that provides a **graph structure** for interacting with data on the Ceramic network.
 
@@ -109,7 +109,7 @@ Also, ComposeDB allows developers to define and query complex graph database sch
 
 ## **The Differences Between Ceramic and ComposeDB**
 
-![Add Ceramic vs ComposeDB Image Here](/home/mide/Ceramic-Tutorial-by-Mide-Sofek/public/CeramicXDB.png)
+![Add Ceramic vs ComposeDB Image Here](../Ceramic-Tutorial-by-Mide-Sofek/public/CeramicXDB.png)
 
 Although Ceramic and ComposeDB both aim at achieving the same goal (i.e. a decentralized data ecosystem), the operational quo architectural framework powering both systems are quite dissimilar.
 
