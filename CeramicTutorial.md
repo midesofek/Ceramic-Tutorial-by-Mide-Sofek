@@ -133,6 +133,8 @@ As a developer, an understanding of the differences between Ceramic and ComposeD
 
 ### 1. **Database Type**
 
+![SQL Database Image](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/SQL-Database.png?raw=true)
+
 With ComposeDB, documents are stored using a model in a local database to provide fast access and query capabilities. Nodes on ComposeDB will be backed by a SQL database, which will be used to index and construct the database for data models in your composite.
 
 These nodes independently index, store data and update the database based on the models available in its composite.
@@ -152,6 +154,8 @@ Once this is done, you gain complete access to the Ceramic network and can start
 Building with ComposeDB is more optimized than setting up your application directly with Ceramic’s developer packages, which involves having to deal with several JS library method calls (such as DID data store, etc).
 
 ### 3. **Network Client**
+
+![Network Client Image](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Internet-Clients-Server-2.png?raw=true)
 
 There are several different gateways to access the Ceramic data network. This gateway is referred to as a **client** - responsible for providing developers interfaces to a Ceramic node.
 
@@ -210,6 +214,8 @@ ComposeDB lifts all the heavyweight of having to deal with multiple patchworks o
 Surely, this is a great development for developers.👍🏽
 
 ## **Finally…**
+
+![Ceramic Illustration](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Final-Ceramic-Graphics.png?raw=true)
 
 If you ever get confused about the difference between Ceramic and ComposeDB, just remember that Ceramic is a data protocol and ComposeDB is built on Ceramic.
 
