@@ -17,7 +17,7 @@ In this tutorial, you will learn
 
 # Introduction to Ceramic
 
-![Ceramic Logo](../Ceramic-Tutorial-by-Mide-Sofek/public/Ceramic.png)
+![Ceramic Logo](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Ceramic.png?raw=true)
 
 Ceramic is a decentralized data network that enables application developers easily build apps with composable Web3 data which can be reused across applications - making them interoperable.
 
@@ -91,7 +91,7 @@ Self.ID provides full access to the Ceramic data network which simplifies the pr
 
 # Introduction to ComposeDB
 
-![ComposeDB](../Ceramic-Tutorial-by-Mide-Sofek/public/ComposeDB.png)
+![ComposeDB](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/ComposeDB.png?raw=true)
 
 ComposeDB on ceramic is a decentralized composable graph database that provides a **graph structure** for interacting with data on the Ceramic network.
 
@@ -109,7 +109,7 @@ Also, ComposeDB allows developers to define and query complex graph database sch
 
 ## **The Differences Between Ceramic and ComposeDB**
 
-![Add Ceramic vs ComposeDB Image Here](../Ceramic-Tutorial-by-Mide-Sofek/public/CeramicXDB.png)
+![Ceramic vs ComposeDB Image](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/CeramicXDB.png?raw=true)
 
 Although Ceramic and ComposeDB both aim at achieving the same goal (i.e. a decentralized data ecosystem), the operational quo architectural framework powering both systems are quite dissimilar.
 
@@ -126,6 +126,8 @@ As a developer, an understanding of the differences between Ceramic and ComposeD
 7. Data Model Reusability & Composability
 8. User Experience
 9. Developer Experience
+
+![The Differences Between Ceramic and ComposeDB](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/TheDifferences.jpg?raw=true)
 
 ### 1. **Database Type**
 
