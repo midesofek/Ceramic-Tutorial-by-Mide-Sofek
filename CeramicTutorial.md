@@ -43,6 +43,10 @@ So let's take a look at some of the cool features you as a developer can leverag
 
 ### 1. **Data Composability**
 
+![Compsable-Data](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Composable-Data.jpg?raw=true)
+
+> Image Src: [Accenture.com](https://insuranceblog.accenture.com)
+
 With trends like decentralized social media, decentralized blogs and decentralized reputation platforms taking off recently, data composability, mutability and usability are very important to understand.
 
 Ceramic stores data in models which can be retrieved and reused by different applications. A data model refers to application features like following, posts, user profiles, etc.
@@ -50,6 +54,8 @@ Ceramic stores data in models which can be retrieved and reused by different app
 Unlike in web 2 where these data are built as data silos (i.e. stored in a spot and cannot be transferred), ceramic enables interoperable systems and applications to solve this challenge.
 
 ### 2. **Multi-Chain Web3 Sign-in Identity**
+
+![Multi-Chain Wallet Sign in](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Multi-Chain-Sign-In.png?raw=true)
 
 Signing in with web3 is great, but a multi-chain way to do the same and authenticate is even better.
 
@@ -60,6 +66,10 @@ With DID, data is tied up to a user's decentralized identity (instead of a smart
 This means users control their data and can verify with any blockchain wallet of their choice.
 
 ### 3. **Decentralized Reputation**
+
+![Decentralized Reputation](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Decentralized-Reputations.png?raw=true)
+
+> Image Src: [Blockchain: A Question of Reputation](https://miro.medium.com)
 
 What we presently have (in web2) is a system whereby reputation systems (i.e. posts, user profiles, etc) are heavily centralized.
 
