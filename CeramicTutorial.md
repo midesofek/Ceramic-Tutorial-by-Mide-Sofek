@@ -43,7 +43,7 @@ So let's take a look at some of the cool features you as a developer can leverag
 
 ### 1. **Data Composability**
 
-![Compsable-Data](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Composable-Data.jpg?raw=true)
+![Composable-Data](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Composable-Data-Chart.jpg?raw=true)
 
 > Image Src: [Mason Nystrom](https://substackcdn.com)
 
