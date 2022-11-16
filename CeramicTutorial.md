@@ -45,7 +45,7 @@ So let's take a look at some of the cool features you as a developer can leverag
 
 ![Compsable-Data](https://github.com/midesofek/Ceramic-Tutorial-by-Mide-Sofek/blob/master/public/Composable-Data.jpg?raw=true)
 
-> Image Src: [Accenture.com](https://insuranceblog.accenture.com)
+> Image Src: [Mason Nystrom](https://substackcdn.com)
 
 With trends like decentralized social media, decentralized blogs and decentralized reputation platforms taking off recently, data composability, mutability and usability are very important to understand.
 
